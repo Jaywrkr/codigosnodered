@@ -4,7 +4,11 @@ Código de flujos para prácticas de IoT en Thingspeak.
 Para poder realizar estos ejemplos de IoT con Thingspeak y para las próximas prácticas con Cooja es necesario hacer uso de un sistema operativo tipo Ubuntu. 
 Para facilitar el proceso, he generado ya una máquina virtual con todo lo necesario para poder utilizar tanto Node-red como Cooja en Ubuntu.
 
+# Video
+Encuentra el video de esta práctica en:
+https://www.youtube.com/channel/UC_UDAGePBq37WE2yLaZDvMg
 
+# Pasos
 1. Descargar Oracle VM VirtualBox (Desde la página oficial)
 2. Descargar la máquina virtual (link de abajo)
 3. Abre VirtualBox > File > Import Appliance > importa IOT-ubuntu.ova
@@ -18,5 +22,5 @@ En la segunda práctica ya se genera una conexión entre Node-red y Thingspeak C
 La tercera práctica esta siendo planificada
 
 
-#Flujos
+# Flujos
 En node red se pueden importar flujos ya realizados, para cada práctica hay un flujo propio.
